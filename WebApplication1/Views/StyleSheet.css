@@ -1,0 +1,14 @@
+﻿* {
+    box-sizing: border-box;
+    width: 900px;
+    height: 600px;
+    font-family: 'Trebuchet MS', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html, body, .wrapper {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    background: linear-gradient(180deg, #80DCD6 7.81%, rgba(137, 167, 204, 0.60866) 32.29%, rgba(52, 145, 221, 0.390625) 72.04%, rgba(154, 183, 217, 0.570788) 99.99%, rgba(16, 139, 179, 0) 100%);
+}
